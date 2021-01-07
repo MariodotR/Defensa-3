@@ -1,4 +1,4 @@
-Lamentablemente las gráficas de plotly no se visualiza aquí.
+Lamentablemente las gráficas de plotly no se visualizan aquí.
 
 
 # Conda environment with environment.yml
