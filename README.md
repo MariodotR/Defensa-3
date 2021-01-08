@@ -1,5 +1,12 @@
 Lamentablemente las gráficas de plotly no se visualizan aquí.
 
+Video: https://youtu.be/1gSdmfjKg6I
+
+
+
+
+
+
 
 # Conda environment with environment.yml
 
